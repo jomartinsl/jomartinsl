@@ -1,6 +1,8 @@
+
 ### Hi there 👋, Jo Martin Slåtten
-#### Robotic arm playing chess
 ![Robotic arm playing chess](https://raw.githubusercontent.com/HVLrobotics/project-reporting-example/9f3fef09243d8dec53e37df6c821e7fd0ef71b9e/%E2%80%ABimages/logo.png)
+#### Automation with robotics student
+
 
 This was the project I was given when I got the job this summer. The project is about getting a robotic arm to play chess. 
 
