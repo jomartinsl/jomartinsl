@@ -13,8 +13,8 @@ Senior student in automation with robotic's at the Western University of Applied
 * 🖥️ TIA Portal
 
 ## Project's I'm working on:
-🤖 Programming a robotarm to play chess
-🏫 Bachelor's degree in automation with robotic's
+* 🤖 Programming a robotarm to play chess
+* 🏫 Bachelor's degree in automation with robotic's
 
 
 ##
