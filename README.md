@@ -3,16 +3,18 @@
 <img src='https://raw.githubusercontent.com/HVLrobotics/project-reporting-example/9f3fef09243d8dec53e37df6c821e7fd0ef71b9e/%E2%80%ABimages/logo.png' alt='github' height='500' width='700'>
 
 #### Automation with robotics student
+Senior student in automation with robotic's at the Western University of Applied Science. 
 
 
-This was the project I was given when I got the job this summer. The project is about getting a robotic arm to play chess. 
 
 ## Skills and experience
 * #️⃣ C# 
 * 🐍 Python
+* 🖥️ TIA Portal
 
 ## Project's I'm working on:
 🤖 Programming a robotarm to play chess
+🏫 Bachelor's degree in automation with robotic's
 
 
 ##
